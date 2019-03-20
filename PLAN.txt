@@ -1,0 +1,93 @@
+                                                  || Shree Ganeshay Namah ||
+
+
+						  Atmagaurav and ishvishwas
+						  Atmagaurav : self respect , self restrain , self confidence
+						  
+
+THE MOST IMPORTANT THING IS MARKEING 
+BEST PRODUCT WILL BE EATING DUST WITHOUT MARKETING AND EVEN AN AVERAGET PRODUCT CAN BE SOLD WITH GOOD MARKETING
+
+
+1. How to handle the markteting / sales ? 
+
+2. Get ready with the first prodcut : 
+	2.1 laser printer                          : Done
+	2.2 component required                     
+		a. Mass procurement and rates      : Pending
+	2.3 PCB manifacturing 
+		a. PCB design                      : Done
+		b. PCB printing/milling            : Pending
+		   
+		   NOTE : Do we want the product to be OPEN SOURCE ? 
+		
+	2.4 Assembling 
+	2.5 Casing 
+		a. Contact custom case maker       : Done
+		   The custom case MOQ             : 5000 units
+		   The die cost comes around       : 1.5L
+		   MOQ after the die is made       : 1000-1500
+		   
+		   NOTE : Holes etc modification in the general box doable at MOQ of 1000-1500 at Rs. 2/3 per box. 
+		          The holes will be done in the box with drill machine and not CNC. 
+			  CNC generates heat and may cause the material to melt. 
+			  We can ask have the cuts/ holes be done locally. 
+
+
+		   NOTE : Seems that we can go with the available box. 
+
+		b. Fitting in the available box    : Pending 
+
+	2.6 Final costing of the prodcut           : Pending
+
+
+3. Preapre the NodeMCU the complete solution : 
+   
+   As suggested by Nilesh that we will not have a WiFi Connection in the places , 
+
+   a. We can either use wired transmission of information. To the next node. And then club both node inforamtion for the next node. 
+
+   b. Creat a mesh network of our own devices and one of the node communicates with the router that would publish the information. 
+
+   c. which needs to have the ESP-01 configured as Soft AP and communicate with other ESP-01 to create mesh. 
+
+4. As talked with  Nilesh Shah : 
+
+	Fire safety solution for the entire community : 
+
+	We can have the Annual Maintenance and Monitoring taken up. So that the regular income comes in. 
+	He suggested to have a big ticket item so that the earning will also be more. 
+	Like the project cost should be more or on a bigger scale like entire apartment or community etc. 
+	Data logging items for factories like rejection in a conveyor belt. He talked about Bislery water bottling would have some rejection. 
+	But that data should be logged on and sent to the relevant person for analysis or monitoring. 
+	
+	If you go for some industry solutions you may get good amount of margin. 
+	In consumer goods / small ticket items there will be many players and people would copy your solution and work. 
+
+	He suggested not to invest time in software side and just concentrate on the hardware and new product markets. 
+
+
+	He said WiFi would not be there every where in the apartment or industry where you would like to install the product. 
+	So you may want to carry the signals to the next node ? 
+ 
+
+
+5. Market Survey for the new product : 
+
+
+
+================================================================================
+IDEAS
+================================================================================
+
+1. Selling desh-bhaki based T-shirts 
+2. Youtube Videos 
+3. selling boards like relay board etc. 
+4. Over google map - quality of living in area - ratings
+5. Raod quality ratings over google map. 
+6. A feature in whatsapp we you would like to download only messages in personal but not in groups
+7. Occupancy with the LEDs driven directly without relay. 
+8. Smart lock : PIN / Bluetooth mobile operated / Finger print sensor operated. 
+	Mechanical movement needs to be defined. 
+	Needs magnetics etc. 
+9. 
