@@ -51,6 +51,13 @@ BEST PRODUCT WILL BE EATING DUST WITHOUT MARKETING AND EVEN AN AVERAGET PRODUCT 
 
    c. which needs to have the ESP-01 configured as Soft AP and communicate with other ESP-01 to create mesh. 
 
+
+   OR Use the RF transcivers and generate your own network with RF communication. 
+
+      The use of low freq. RF transcivers requires big antenna. 
+
+
+
 4. As talked with  Nilesh Shah : 
 
 	Fire safety solution for the entire community : 
