@@ -1,0 +1,17 @@
+Consider the example : 
+
+unsigned long new_time;
+unsigned long start_time;
+
+const int TIMER = 180;    // This case does NOT work and the eqution never became true
+if ( (new_time-start_time) >= (1000*TIMER)) 
+
+
+const unsigned long = 180 // This case works and the equation becomes true after 180 seconds
+if ( (new_time-start_time) >= (1000*TIMER)) 
+
+OR 
+
+const unsigned long = 180000 // This case works and the equation becomes true after 180 seconds
+if ( (new_time-start_time) >= TIMER)  // removed the multiplication operation 
+
