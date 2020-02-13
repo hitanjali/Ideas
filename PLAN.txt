@@ -91,7 +91,7 @@ IDEAS
 2. Youtube Videos 
 3. selling boards like relay board etc. 
 4. Over google map - quality of living in area - ratings
-5. Raod quality ratings over google map. 
+5. Road quality ratings over google map. 
 6. A feature in whatsapp we you would like to download only messages in personal but not in groups
 7. Occupancy with the LEDs driven directly without relay. 
 8. Smart lock : PIN / Bluetooth mobile operated / Finger print sensor operated. 
@@ -109,6 +109,19 @@ IDEAS
 	c. Introduction : 
 		NU _______ : 
 
+11. Distributed GPS and trafic management : 
+    a) CARs to have GPS modules
+    b) Traffic data based on the CARs and managing the traffic signals based on 
+       this. 
+    c) This will provide safty feature to the CARs [ Anti-theft ]
+
+12. Night Light pollution : Ultra sound based lights to reduce the night lights
+
+13. Cross light exp for the transparent object detection
+
+14. A smart phone app that would control light fans etc over wifi without router 
+    possible ?
+    Like connect to the wifi SSID of the mesh itself 
 
 ================================================================================
 Time Management
